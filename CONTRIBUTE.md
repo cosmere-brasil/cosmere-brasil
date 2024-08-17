@@ -15,11 +15,9 @@ Existem algumas maneiras pelas quais você pode contribuir:
 4. **Sugerindo melhorias:** Caso você tenha ideias de como aprimorar a estrutura, organização ou apresentação da enciclopédia, fique à vontade para compartilhá-las conosco, seja abrindo um Issue no GitHub ou através do e-mail cosmere@duck.com.
 
 ## Como eu posso ajudar?
-Bem, espero que no futuro haja uma implementação de editor de páginas dentro do site da [Cosmere Brasil](cosmere-brasil.vercel.app), mas por enquanto nós usamos páginas estáticas[^1] na enciclopédia, por isso o jeito de contribuir conosco é um tanto quanto técnico, mas não é difícil e eu vou te guiar.
+Bem, espero que no futuro haja uma implementação de editor de páginas dentro do site da [Cosmere Brasil](https://cosmere-brasil.vercel.app/), mas por enquanto nós usamos páginas estáticas[^1] na enciclopédia, por isso o jeito de contribuir conosco é um tanto quanto técnico, mas não é difícil e eu vou te guiar.
 
 ### Passo a passo.
 
 
-[^1]: Uma página web estática é uma página da internet que não muda seu conteúdo a menos que o proprietário da página a atualize manualmente. Isso significa que quando alguém acessa essa página, ela sempre mostrará o mesmo conteúdo, como texto, imagens e links.
-
-As páginas web estáticas são criadas usando linguagens de marcação, como HTML, CSS e JavaScript. Elas são armazenadas em um servidor web e são enviadas exatamente como estão para o navegador do usuário quando solicitadas.
+[^1]: Uma página estática é um tipo de implementação de página web que não muda seu conteúdo a menos que o proprietário da página a atualize manualmente. Isso significa que quando alguém acessa essa página, ela sempre mostrará o mesmo conteúdo. 
