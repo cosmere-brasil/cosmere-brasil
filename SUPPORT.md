@@ -35,4 +35,4 @@ Se você tiver alguma dúvida ou precisar de mais informações, não hesite em 
 Por apoiar este projeto financeiramente, Eu - [Raavë Aires](https://github.com/raave-aires/) -  dedico calorosos agradecimentos a:
 - {Seu nome aqui}.
 
-[^1] O PicPay costuma bloquear acessos de quem está usando VPN aos links deles. Portanto, é necessário desligar a VPN para acessar o link.
+[^1]: O PicPay costuma bloquear acessos de quem está usando VPN aos links deles. Portanto, é necessário desligar a VPN para acessar o link.
