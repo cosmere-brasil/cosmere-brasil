@@ -35,7 +35,7 @@ function Header(){
                         </li>
 
                         <li className='item_da_lista'>
-                            <a href="https://github.com/cosmere-brasil/enciclopedia/blob/main/CONTRIBUTE.md">Contribua</a>
+                            <a href="https://github.com/cosmere-brasil/cosmere-brasil/blob/main/CONTRIBUTE.md" target='_blank'>Contribua</a>
                         </li>
 
                         <li className='item_da_lista'>

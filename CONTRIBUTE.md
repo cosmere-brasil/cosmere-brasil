@@ -1,4 +1,4 @@
-# Ajude o Cosmere Brasil
+# Ajude o Cosmere Brasil a crescer
 Saudações, meu(inha) caro(a) colega fã do Brandon! É bom que esteja aqui. 
 
 Bem, para início de conversa, manter uma enciclopédia é muito difícil, e mais ainda quando ela é sobre uma assunto (ou conjuto de obras, nesse caso) que está em desenvolvimento. Portanto, a fins de manter o conteúdo sempre atualizado e relevante, **convidamos a todos** que queiram e possam dedicar um pouco de esforço a nos ajudar a manter esta enciclopédia a par dos últimos acontecimentos das obras do Brandon Sanderson.
