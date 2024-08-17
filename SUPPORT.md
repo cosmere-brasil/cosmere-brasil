@@ -20,7 +20,7 @@ Você pode fazer doações através de uma das opções abaixo:
 `00020126810014br.gov.bcb.pix0120pixproraave@duck.com0235Doacao p/ criador do Cosmere Brasil5204000053039865802BR5919RAAVE DE LIMA AIRES6009Sao Paulo62090505Raave63049516`. 
 São os mesmos dados de recebedor do código QR.
 
-Se preferir outras opções de pagamento (cartão, por exemplo), você pode me encontrar no PicPay com o [@raave]( https://picpay.me/raave/1/) e usar a opções de pagamento disponíveis lá.
+Se preferir outras opções de pagamento (cartão, por exemplo), você pode me encontrar no PicPay com o [@raave]( https://picpay.me/raave/1/) e usar a opções de pagamento disponíveis lá.[^1]
 
 
 
@@ -32,5 +32,7 @@ Se você tiver alguma dúvida ou precisar de mais informações, não hesite em 
 
 ## Apoiadores.
 
-Por apoiar este projeto financeiramente, Eu - Raavë Aires -  dedico calorosos agradecimentos a:
+Por apoiar este projeto financeiramente, Eu - [Raavë Aires](https://github.com/raave-aires/) -  dedico calorosos agradecimentos a:
 - {Seu nome aqui}.
+
+[^1] O PicPay costuma bloquear acessos de quem está usando VPN aos links deles. Portanto, é necessário desligar a VPN para acessar o link.
