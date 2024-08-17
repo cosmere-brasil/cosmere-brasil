@@ -1,7 +1,7 @@
 # Apoie-nos financeiramente
 Saudações, meu(inha) caro(a) colega fã do Brandon! É bom que esteja aqui. 
 
-Bem, eu - [Raavë Aires](https://github.com/raave-aires/) - criei e mantenho o Cosmere Brasil por amor às obras do Brandon Sanderson e por hobby. E, quando criei este site, tomei como príncipios orientadores do desenvolviento mantê-lo limpo, livre, atualizado, acessível e livre de anúncios. O resumo da ópera é que eu nunca iria ganhar nada a partir do Cosmere Brasil além de expêriencia e trabalho.
+Bem, eu - [Raavë Aires](https://github.com/raave-aires/) - criei e mantenho o Cosmere Brasil por amor às obras do Brandon Sanderson e por hobby. E, quando criei este site, tomei como príncipios orientadores do desenvolviento mantê-lo limpo, livre, atualizado, acessível e livre de anúncios. O resumo da ópera é que eu nunca irei ganhar nada a partir do Cosmere Brasil além de expêriencia e trabalho.
 
 Todavia, deixo abertas algumas vias para que fãs gratos me ajudem a comprar um pastel e um suco para lanchar enquanto trabalho aqui nessa enciclopédia. :)
 
