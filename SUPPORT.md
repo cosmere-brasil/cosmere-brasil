@@ -14,7 +14,7 @@ Existem várias maneiras de você apoiar o projeto financeiramente:
 ### 1. Doações via Pix.
 Você pode fazer uma doação única através do Código QR abaixo. 
 
-![](./public/Cartão%20Pix.svg)
+![](./public/cartão-do-pix.svg)
 
 Qualquer valor é muito apreciado e nos ajuda a manter o projeto em funcionamento.
 
