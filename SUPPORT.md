@@ -14,11 +14,11 @@ Você pode fazer doações através de uma das opções abaixo:
 ![](./public/cartão-do-pix.svg)
 
 ##### 2. Via minha chave:
-`pixproraave@duck.com`. São os menos dados de recebedor do código QR.
+`pixproraave@duck.com`. São os mesmos dados de recebedor do código QR.
 
 ##### 3. Código copia e cola:
 `00020126810014br.gov.bcb.pix0120pixproraave@duck.com0235Doacao p/ criador do Cosmere Brasil5204000053039865802BR5919RAAVE DE LIMA AIRES6009Sao Paulo62090505Raave63049516`. 
-São os menos dados de recebedor do código QR.
+São os mesmos dados de recebedor do código QR.
 
 Se preferir outras opções de pagamento (cartão, por exemplo), você pode me encontrar no PicPay com o [@raave]( https://picpay.me/raave/1/) e usar a opções de pagamento disponíveis lá.
 
