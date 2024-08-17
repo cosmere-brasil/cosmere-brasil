@@ -7,34 +7,30 @@ Todavia, deixo abertas algumas vias para que fãs gratos me ajudem a comprar um 
 
 Enfim, e em todo caso, agradeço qualquer interesse em apoiar esse projeto. Sua contribuição financeira me motivará e incentivará a continuar desenvolvendo e melhorando o Cosmere Brasil.
 
-## Formas de Contribuir
+### Por onde posso doar?
+Você pode fazer doações através de uma das opções abaixo:
 
-Existem várias maneiras de você apoiar o projeto financeiramente:
-
-### 1. Doações via Pix.
-Você pode fazer uma doação única através do Código QR abaixo. 
-
+##### 1. Via PIX por código QR:
 ![](./public/cartão-do-pix.svg)
 
-Qualquer valor é muito apreciado e nos ajuda a manter o projeto em funcionamento.
+##### 2. Via minha chave:
+`pixproraave@duck.com`. São os menos dados de recebedor do código QR.
 
-### Assinatura Mensal
-Considere se tornar um apoiador mensal do projeto. Você pode escolher um valor que se ajuste ao seu orçamento, e sua contribuição recorrente nos ajudará a planejar melhor nossos recursos a longo prazo.
+##### 3. Código copia e cola:
+`00020126810014br.gov.bcb.pix0120pixproraave@duck.com0235Doacao p/ criador do Cosmere Brasil5204000053039865802BR5919RAAVE DE LIMA AIRES6009Sao Paulo62090505Raave63049516`. 
+São os menos dados de recebedor do código QR.
 
-### Patrocínio
-Se sua empresa ou organização está interessada em se tornar um patrocinador oficial do projeto, entre em contato conosco para discutir as oportunidades de patrocínio disponíveis.
+Se preferir outras opções de pagamento (cartão, por exemplo), você pode me encontrar no PicPay com o [@raave]( https://picpay.me/raave/1/) e usar a opções de pagamento disponíveis lá.
 
-## Benefícios para Apoiadores
 
-Como agradecimento pelo seu apoio, oferecemos alguns benefícios exclusivos para nossos apoiadores:
 
-- Acesso antecipado a novos recursos e atualizações
-- Reconhecimento público como apoiador do projeto
-- Desconto em produtos e serviços relacionados ao projeto
-- Participação em pesquisas e feedback sobre o desenvolvimento do projeto
+### Há benefícios para apoiadores?
+Por enquanto, não. A menos que você considere benefício o seu nome aparecer na sessão Apoiadores.
 
-## Obrigado pelo seu Apoio!
+Se você tiver alguma dúvida ou precisar de mais informações, não hesite em entrar em contato comigo pelo cosmere@duck.com.
 
-Sua contribuição financeira é fundamental para a sustentabilidade e o crescimento deste projeto. Agradecemos imensamente o seu apoio e estamos ansiosos para trabalhar juntos nesta jornada.
 
-Se você tiver alguma dúvida ou precisar de mais informações, não hesite em entrar em contato conosco.
+## Apoiadores.
+
+Por apoiar este projeto financeiramente, Eu - Raavë Aires -  dedico calorosos agradecimentos a:
+- {Seu nome aqui}.
