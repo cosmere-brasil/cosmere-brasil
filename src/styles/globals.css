@@ -1,3 +1,20 @@
-body {
-    background-color: #303030;
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets/fonts/Inter.woff2');
 }
+
+@font-face {
+    font-family: 'Open Runde';
+    src: url('../assets/fonts/Open Runde/OpenRunde-Regular.woff2');
+}
+
+* {
+    font-family: 'Open Runde' !important;
+    scrollbar-color: #454a4d #303030;
+}
+
+html {
+    max-width: 100vw;
+}
+
+/*# sourceMappingURL=globals.css.map */

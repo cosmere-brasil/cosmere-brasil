@@ -1,0 +1,21 @@
+$cor_de_fundo: #303030;
+
+.conteudo_da_pagina{
+    height: 1800px;
+    width: 100%;
+    background-color: $cor_de_fundo;
+
+    display: flex;
+    justify-content: center;
+
+    position: relative;
+    top: 12vh;
+
+    margin: 0;
+
+    .conteudo {
+        height: 1800px;
+        width: 80vw;
+        background-color: $cor_de_fundo;
+    }
+}

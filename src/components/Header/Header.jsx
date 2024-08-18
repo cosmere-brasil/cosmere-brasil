@@ -4,6 +4,7 @@ import './Header.styles.css'
 
 //Início da importação de ícones:
 // import { ChevronDown as ParaBaixo } from 'lucide-react';
+//import Centelha from '/src/assets/icons/centelha.svg'
 //Fim da importação de ícones.
 
 function Header(){
@@ -13,7 +14,9 @@ function Header(){
                 <nav id='barra_de_navegacao'>
                     <ul id='lista_esquerda'>
                         <li className='item_da_lista'>
-                            Cosmere
+                            <a href='https://cosmere-brasil.vercel.app' target='_blank'>
+                                Cosmere Brasil
+                            </a>
                         </li>
 
                         <li className='item_da_lista'>
@@ -34,12 +37,12 @@ function Header(){
                             <a href="">Licenças</a>
                         </li>
 
-                        <li className='item_da_lista'>
+                        <li className='item_da_lista botoes'>
                             <a href="https://github.com/cosmere-brasil/cosmere-brasil/blob/main/CONTRIBUTE.md" target='_blank'>Contribua</a>
                         </li>
 
-                        <li className='item_da_lista'>
-                            <a href="https://github.com/cosmere-brasil/cosmere-brasil/blob/main/SUPPORT.md" target='_blank'>Apoie</a>
+                        <li className='item_da_lista botoes'>
+                            <a href="https://github.com/cosmere-brasil/cosmere-brasil/blob/main/SUPPORT.md" target='_blank' id='apoiar'>Apoie</a>
                         </li>
                     </ul>
                 </nav>

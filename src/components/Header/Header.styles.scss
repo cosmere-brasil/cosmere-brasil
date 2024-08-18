@@ -1,7 +1,9 @@
 $altura_do_cabecalho: 10vh;
 
 $cor_de_fundo: #303030;
+
 $cor_do_texto: #fff;
+$cor_texto_destacado: #ffc115;
 
 #cabecalho {
     position: fixed;
@@ -49,10 +51,21 @@ $cor_do_texto: #fff;
     }
 }
 
-
-
-
-
 .item_da_lista {
-    padding: 6px;
+    margin: 6px;
+
+    &:hover {
+        color: $cor_texto_destacado;
+    }
+}
+
+.botoes {
+    background: rgba(8, 201, 255, 0.45);
+    backdrop-filter: blur(4.3px);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    
+    border: 1px solid #08c9ff87;
+    border-radius: 5px;
+
+    padding: 5px 10px;
 }
