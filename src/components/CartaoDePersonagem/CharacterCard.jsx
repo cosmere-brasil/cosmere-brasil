@@ -4,23 +4,23 @@ import PropTypes from 'prop-types';
 
 import './styles/CartaoDePersonagem.styles.css'
 
-function CartaoDePersonagem(props){
+function CharacterCard(props){
     return(
         <>
             <div className='cartao_de_personagem'>
                 <div className='cabecalho'>
                     <h2>
-                        {props.nome_do_personagem}
+                        {props.character_name}
                     </h2>
-                    <img src={props.imagem_do_personagem} />
+                    <img src={props.character_pic} />
                 </div>
             </div>
         </>
     )
 }
 
-CartaoDePersonagem.propTypes = {
-    nome_do_personagem: PropTypes.string.isRequired,
-    imagem_do_personagem: PropTypes.string.isRequired
+CharacterCard.propTypes = {
+    character_name: PropTypes.string.isRequired,
+    character_pic: PropTypes.string.isRequired
 }
-export { CartaoDePersonagem }
+export { CharacterCard }
