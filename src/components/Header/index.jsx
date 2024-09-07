@@ -45,9 +45,12 @@ function Header(){
                     </ul>
 
                     <ul id='lista_direita'>
-                        <li className='item_da_lista'>
-                            <a href="">Licenças</a>
-                        </li>
+                    <HeaderIten
+                            classe="item_da_lista"
+                            link="https://github.com/cosmere-brasil/cosmere-brasil/blob/main/LICENCES.md"
+                            isExternal={true}>
+                                Licenças
+                        </HeaderIten>
 
                         <HeaderIten
                             classe='item_da_lista botao'

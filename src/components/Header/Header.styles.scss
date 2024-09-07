@@ -1,6 +1,7 @@
 $altura_do_cabecalho: 10vh;
 
 $cor_de_fundo: #303030;
+$cor_do_cabecalho: rgba(38, 38, 38, 0.9);
 
 $cor_do_texto: #fff;
 $cor_texto_destacado: #41b9ff;
@@ -11,7 +12,7 @@ $cor_texto_destacado: #41b9ff;
     height: $altura_do_cabecalho;
     width: 100vw;
 
-    background: rgba(48, 48, 48, 0.84);
+    background: $cor_do_cabecalho;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(5.4px);
 
