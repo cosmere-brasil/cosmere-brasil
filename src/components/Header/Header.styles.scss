@@ -3,7 +3,7 @@ $altura_do_cabecalho: 10vh;
 $cor_de_fundo: #303030;
 
 $cor_do_texto: #fff;
-$cor_texto_destacado: #ffc115;
+$cor_texto_destacado: #41b9ff;
 
 #cabecalho {
     position: fixed;
@@ -59,13 +59,32 @@ $cor_texto_destacado: #ffc115;
     }
 }
 
-.botoes {
-    background: rgba(8, 201, 255, 0.45);
-    backdrop-filter: blur(4.3px);
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    
-    border: 1px solid #08c9ff87;
-    border-radius: 5px;
+.botao {
+    border: 1px solid rgb(133, 132, 132);
+    border-radius: 8px;
 
     padding: 5px 10px;
+
+    &:hover {
+        border: 1px solid rgb(219, 219, 219);
+        color: $cor_do_texto;
+    }
+}
+
+.botao_destacado {
+    background: rgba(37, 114, 231, 0.4);
+    backdrop-filter: blur(5.1px);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+    border: 1px solid rgba(37, 114, 231, 0.4);
+    border-radius: 8px;
+
+    padding: 5px 10px;
+
+    &:hover {
+        background: rgba(37, 114, 231, 0.7);
+        border: 1px solid rgba(37, 114, 231, 0.7);
+
+        color: $cor_do_texto;
+    }
 }

@@ -5,15 +5,16 @@ import PropTypes from 'prop-types';
 function CharacterCardHeader(props){
     return(
         <>
-            <h2>{props.nome_do_personagem}</h2>
-            <img src={props.foto_do_personagem} alt="" />
+            <h2>{props.character_name}</h2>
+            <img src={props.character_pic} alt={props.cpic_alt} />
         </>
     )
 }
 
 CharacterCardHeader.propTypes = {
-    nome_do_personagem: PropTypes.string.isRequired,
-    foto_do_personagem: PropTypes.string.isRequired
+    character_name: PropTypes.string.isRequired,
+    character_pic: PropTypes.string.isRequired,
+    cpic_alt: PropTypes.string.isRequired
 }
 
 export { CharacterCardHeader }
