@@ -47,21 +47,21 @@ function Header(){
                     <ul id='lista_direita'>
                     <HeaderIten
                             classe="item_da_lista"
-                            link="https://github.com/cosmere-brasil/cosmere-brasil/blob/main/LICENCES.md"
+                            link="https://github.com/cosmere-brasil/cosmere-brasil/blob/main/public/markdown/LICENSES.md"
                             isExternal={true}>
                                 Licenças
                         </HeaderIten>
 
                         <HeaderIten
                             classe='item_da_lista botao'
-                            link='https://github.com/cosmere-brasil/cosmere-brasil/blob/main/SUPPORT.md'
+                            link='https://github.com/cosmere-brasil/cosmere-brasil/blob/main/public/markdown/SUPPORT.md'
                             isExternal={true}>
                                 Apoie
                         </HeaderIten>
 
                         <HeaderIten
                             classe='item_da_lista botao_destacado'
-                            link='https://github.com/cosmere-brasil/cosmere-brasil/blob/main/CONTRIBUTE.md'
+                            link='https://github.com/cosmere-brasil/cosmere-brasil/blob/main/public/markdown/CONTRIBUTE.md'
                             isExternal={true}>
                                 Contribua
                         </HeaderIten>
