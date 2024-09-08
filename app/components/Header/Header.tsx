@@ -6,9 +6,9 @@ import { HeaderButton } from "./Header.Button";
 
 function Header(){
     return(
-        <header className='fixed flex justify-center w-screen h-16 max-h-16 bg-cor_de_fundo text-sm'>
+        <header className='z-9 fixed flex justify-center w-screen h-16 max-h-16 bg-cor_de_fundo text-sm'>
             <h1 className="flex items-center">
-                <a href="http://cosmere-brasil.vercel.app/">
+                <a href="/">
                     <Image src={Cobre} alt="Cosmere Brasil" width={60} height={60} priority/>
                 </a>
             </h1>
@@ -18,35 +18,30 @@ function Header(){
 
                 <ul className='flex items-center gap-4'> {/*Lista esquerda*/}
                     <HeaderIten
-                        enlace=''
+                        enlace='/categorias'
                         texto='Categorias'
-                        isExternal={false}
                     />
 
                     <HeaderIten
-                        enlace=''
+                        enlace='/universos'
                         texto='Universos'
-                        isExternal={false}
                     />
 
                     <HeaderIten
-                        enlace=''
+                        enlace='/comunidade'
                         texto='Comunidade'
-                        isExternal={false}
                     />
 
                     <HeaderIten
-                        enlace=''
+                        enlace='/noticias'
                         texto='Notícias'
-                        isExternal={false}
                     />
                 </ul>
 
                 <ul className='flex items-center gap-4 justify-'> {/*Lista direita*/}
                     <HeaderIten
-                        enlace='https://github.com/cosmere-brasil/cosmere-brasil/blob/main/public/markdown/LICENSES.md'
+                        enlace='/licencas'
                         texto='Licenças'
-                        isExternal={true}
                     />
 
                     <HeaderButton 

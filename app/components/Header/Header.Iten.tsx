@@ -1,13 +1,12 @@
 interface Props {
     enlace: string,
     texto: string,
-    isExternal: boolean
 }
 
-function HeaderIten({enlace, texto, isExternal } : Props){
+function HeaderIten({enlace, texto } : Props){
     return(
         <li className='hover:text-cyan-500'>
-            <a href={enlace} target={isExternal ? "_blank" : "_self"} rel={isExternal ? "noopener noreferrer" : undefined}>
+            <a href={enlace}>
                 {texto}
             </a>
         </li>
