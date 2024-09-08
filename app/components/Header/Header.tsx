@@ -6,14 +6,14 @@ import { HeaderButton } from "./Header.Button";
 
 function Header(){
     return(
-        <header className='z-9 fixed flex justify-center w-screen h-16 max-h-16 bg-cor_de_fundo text-sm'>
+        <header className='z-50 fixed flex justify-center w-screen h-16 max-h-16 bg-cor_de_fundo text-sm bg-opacity-80 backdrop-blur-sm'>
             <h1 className="flex items-center">
                 <a href="/">
                     <Image src={Cobre} alt="Cosmere Brasil" width={60} height={60} priority/>
                 </a>
             </h1>
 
-            <nav className='flex items-center justify-between w-4/5 h-16 bg-cor_de_fundo'>
+            <nav className='flex items-center justify-between w-4/5 h-16'>
                 
 
                 <ul className='flex items-center gap-4'> {/*Lista esquerda*/}
