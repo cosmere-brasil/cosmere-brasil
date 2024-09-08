@@ -52,6 +52,7 @@ function Header(){
                     <HeaderButton 
                         enlace='https://codeberg.org/cosmere/cosmere-brasil/src/branch/main'
                         texto='Contribua'
+                        isExternal={true}
                     />
                 </ul>
             </nav>
