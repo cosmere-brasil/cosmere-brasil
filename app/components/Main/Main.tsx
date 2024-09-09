@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+interface Props {
+    children: React.ReactNode
+}
+
+function Conteudo({children}: Props){
+    return(
+        <main className='relative top-20 h-screen flex justify-center'>
+            {children}
+=======
 import { UniverseCard } from "../UniverseCard/UniverseCard"
 
 function Conteudo(){
@@ -9,8 +19,13 @@ function Conteudo(){
             </article>
 
             <UniverseCard></UniverseCard>
+>>>>>>> b60a81cd4ef7d59a775f44f07a736762fe2c243b
         </main>
     )
 }
 
+<<<<<<< HEAD
+export { Conteudo }
+=======
 export default Conteudo
+>>>>>>> b60a81cd4ef7d59a775f44f07a736762fe2c243b
