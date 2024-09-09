@@ -7,7 +7,7 @@ export default function Home() {
         <>
             <Header />
             <Conteudo>
-                
+                <h1>teste</h1>
             </Conteudo>
         </>
     );
