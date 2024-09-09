@@ -32,7 +32,7 @@ function Universos(){
                         enlace='https://www.youtube.com/watch?v=dQw4w9WgXcQ'
                         imagem={Reckoners}
                         titulo='Executores'
-                        descricao='Uma versão da Terra onde um evento mágico deu poderes algjumas pessoas. Estas se tornaram hérois por um tempo, até que perceberam que os governos não tinham poder para enfrentá-los.'
+                        descricao='Uma versão da Terra onde um evento mágico deu poderes a algumas pessoas. Estas se tornaram hérois... por um tempo, até que perceberam que os governos não tinham poder para enfrentá-los.'
                     />
 
                     <UniverseCard
