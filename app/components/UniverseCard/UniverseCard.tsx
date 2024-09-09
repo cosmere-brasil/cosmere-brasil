@@ -5,7 +5,7 @@ import Image from "next/image"
 
 interface Props {
     enlace: string,
-    imagem: React.ReactNode,
+    imagem: string | StaticImageData,
     titulo: string,
     descricao: string
 }
