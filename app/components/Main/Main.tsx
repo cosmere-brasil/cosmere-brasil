@@ -4,7 +4,7 @@ interface Props {
 
 function Conteudo({children}: Props){
     return(
-        <main className='relative top-20 h-screen flex justify-center'>
+        <main className='relative top-20 h-screen flex justify-center max-w-4/5'>
             {children}
         </main>
     )
