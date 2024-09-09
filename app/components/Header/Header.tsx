@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import Cobre from "/app/assets/images/cobre.svg"
+import Cobre from "/src/svgs/cobre.svg"
 import { HeaderIten } from "./Header.Iten";
 import { HeaderButton } from "./Header.Button";
 

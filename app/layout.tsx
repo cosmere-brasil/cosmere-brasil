@@ -3,7 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 
 const openRunde = localFont({
-    src: "./fonts/open-runde.woff2",
+    src: "../src/fonts/open-runde.woff2",
     variable: "--font-openRunde",
     weight: "100 900"
 });

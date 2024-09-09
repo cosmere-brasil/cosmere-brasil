@@ -16,12 +16,12 @@
 
 @font-face {
     font-family: "Open Runde";
-    src: url("./fonts/open-runde.woff2");
+    src: url("/src/fonts/open-runde.woff2");
 }
 
 @font-face {
     font-family: "Nova";
-    src: url("./fonts/nova.woff2");
+    src: url("/src/fonts/nova.woff2");
 }
 
 body {
