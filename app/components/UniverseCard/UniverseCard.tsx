@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //import { Orbit } from 'lucide-react';
 //import Image from 'next/image';
 
@@ -28,19 +27,6 @@ function UniverseCard({enlace, titulo, descricao}: Props){
                 <h3>{titulo}</h3>
             </a>
             <p>{descricao}</p>
-=======
-import { Orbit } from 'lucide-react';
-
-interface Props {
-    titulo: string
-    descricao: string
-}
-
-function UniverseCard({titulo, descricao}: Props){
-    return(
-        <div>
-            
->>>>>>> b60a81cd4ef7d59a775f44f07a736762fe2c243b
         </div>
     )
 }
